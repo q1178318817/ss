@@ -2798,9 +2798,6 @@ elif [[“ $ {action}” ==“ monitor”]]; 然后
 	crontab_monitor_ssr
 其他
 	echo -e“ ShadowsocksR ComeBey一键管理脚本$ {Red_font_prefix} [v $ {sh_ver}] $ {Font_color_suffix}
-          ＃youtube关注https://www.youtube.com/c/HasanW＃
-          ＃Twitter关注免费天气预报获取https://twitter.com/WangTao_Im＃
-          ＃Instagram关注https://www.instagram.com/wangtao.lm/＃
 
   $ {Green_font_prefix} 1。$ {Font_color_suffix}安装ShadowsocksR
   $ {Green_font_prefix} 2。$ {Font_color_suffix}更新ShadowsocksR
